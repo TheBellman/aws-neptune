@@ -113,7 +113,8 @@ $ curl -G 'https://rahneptune20201211102942965200000006.cluster-ce6eqomcqsmi.eu-
 
 
 ## License
-Copyright 2020 Leap Beyond Emerging Technologies B.V.
+Copyright 2026 Little Dog Digital
+Portions Copyright 2020 Leap Beyond Emerging Technologies B.V.
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
